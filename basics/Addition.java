@@ -7,7 +7,8 @@ package basics;
 public class Addition {
 
     /**
-     * @param args
+     * Advantages of using short hand notation.
+     * implicit casting will be provided by compiler itself.
      */
     public static void main(String[] args) {
         byte a = 4;
