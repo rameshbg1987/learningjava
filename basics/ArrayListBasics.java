@@ -26,6 +26,18 @@ public class ArrayListBasics {
         arrayListBasics.iteratorRemoveOperation();
         arrayListBasics.listIteratorOperation();
         arrayListBasics.retainAllOperation();
+        arrayListBasics.clearOperation();
+    }
+
+    private void clearOperation() {
+        System.out.println("Clear All Operation\n\n");
+        List<String> list = new ArrayList<String>();
+        for (int i = 0; i < 10; i++) {
+            list.add(String.valueOf(i));
+        }
+        System.out.println("Before Clear Operation "+list);
+        list.clear();
+        System.out.println("After Clear Operation "+list);
     }
 
     private void retainAllOperation() {
