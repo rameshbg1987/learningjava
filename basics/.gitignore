@@ -50,3 +50,7 @@
 /GenericSuperKeywordTest.class
 /CollectionsTest.class
 /BooleanTest.class
+/CopyArrays.class
+/ShallowCloneTest.class
+/ShallowClass.class
+/MemberClass.class
