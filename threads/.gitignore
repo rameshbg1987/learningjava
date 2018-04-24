@@ -115,3 +115,5 @@
 /CustomThreadPoolExecutor.class
 /CustomThreadPoolExecutorTest.class
 /CustomThreadPoolExecutorTest$1.class
+/ReentrantLockTest.class
+/ReentrantLockTest$1.class
