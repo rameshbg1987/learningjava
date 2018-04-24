@@ -101,3 +101,17 @@
 /TrafficSignal2.class
 /UnsafeMainClass.class
 /UnsafeStates.class
+/BlockingQueueImpl.class
+/BlockingQueueImplTest$1.class
+/BlockingQueueImplTest$2.class
+/BlockingQueueImplTest.class
+/BlockingQueueImplTest$3.class
+/BlockingQueueImplTest$4.class
+/SemaphorePrintTest$1.class
+/SemaphorePrintTest.class
+/CountDownLatchVsCyclicBarrierTest$1.class
+/CountDownLatchVsCyclicBarrierTest$2.class
+/CountDownLatchVsCyclicBarrierTest.class
+/CustomThreadPoolExecutor.class
+/CustomThreadPoolExecutorTest.class
+/CustomThreadPoolExecutorTest$1.class
