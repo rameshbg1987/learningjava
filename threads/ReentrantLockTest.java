@@ -4,7 +4,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @author Ramesh BG
- * SemaphorePrintTest.java implemented using ReentrantLock
+ * SemaphorePrintTest.java implemented using ReentrantLock single lock.
  */
 public class ReentrantLockTest {
     
