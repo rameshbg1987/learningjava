@@ -20,3 +20,15 @@
 /TrafficSignalGUITest$1.class
 /TrafficSignalGUITest$2.class
 /TrafficSignalGUITest.class
+/AvoidDeadLockUsingHashCode.class
+/TestAvoidDeadLockUsingHashCode.class
+/TestAvoidDeadLockUsingHashCode$1.class
+/TestAvoidDeadLockUsingHashCode$2.class
+/TestAvoidDeadLockUsingHashCode$3.class
+/TestAvoidDeadLockUsingHashCode$4.class
+/AvoidDeadLockUsingHashCodeTest$1.class
+/AvoidDeadLockUsingHashCodeTest$2.class
+/AvoidDeadLockUsingHashCodeTest.class
+/AvoidDeadLockUsingTimedPollTest.class
+/AvoidDeadLockUsingTimedPollTest$1.class
+/AvoidDeadLockUsingTimedPollTest$2.class

@@ -57,10 +57,9 @@ public class CountDownLatchVsCyclicBarrierTest {
                 public void run() {
                     try {
                         int andIncrement = atomicInteger.getAndIncrement();
-                        System.out.println("this is thread " + andIncrement);
-                        cyclicBarrier.await();
                         System.out.println("this is thread " + andIncrement
                                 + " waiting for others");
+                        cyclicBarrier.await();
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     } catch (BrokenBarrierException e) {

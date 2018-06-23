@@ -5,7 +5,7 @@ import java.util.concurrent.CountDownLatch;
  * @author Ramesh BG
  *
  */
-public class MyPool {
+public class RunAllThreadsAtSameTimeUsingCountDownLatch {
 
     private static int NUMBER_OF_THREADS = 10;
 
@@ -31,7 +31,10 @@ public class MyPool {
             }
         }).start();
 
+        long startTime= System.currentTimeMillis();
         startingGate.countDown();
         endingGate.await();
+        long endTime = System.currentTimeMillis();
+        System.out.println("Total time taken by all threads is "+(endTime-startTime));
     }
 }
